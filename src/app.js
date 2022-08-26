@@ -191,7 +191,7 @@ var app = new Vue({
       entity_groups: {
         db: null,
         url: 'CSV/entity-groups.csv',
-        category: 'entity groups',
+        category: 'entity_groups',
         name: 'Entity groups'
       },
       track_references: {
